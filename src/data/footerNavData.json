@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Teman Menua",
+        "items": [
+            {
+                "label": "Features",
+                "href": "#features"
+            },
+            {
+                "label": "Testimonials",
+                "href": "#testimonials"
+            },
+            {
+                "label": "FAQ",
+                "href": "#faq"
+            }
+        ]
+    },
+    {
+        "title": "Media Social",
+        "items": [
+            {
+                "label": "Contact Me",
+                "href": "https://bit.ly/4bDO6Ve",
+                "target": "_blank"
+            },
+            {
+                "label": "Instagram",
+                "href": "https://www.instagram.com/teman.menua?utm_source=qr&igsh=aWg2ZG1iYmF0ZzR2",
+                "target": "_blank"
+            },
+            {
+                "label": "Tiktok",
+                "href": "https://www.tiktok.com/@teman.menua?_t=8nIMKZi3Qor&_r=1",
+                "target": "_blank"
+            }
+        ]
+    }
+]
