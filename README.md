@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Astro NutriTrack - A landing page template 🚀
+  Teman Menua - Weding Photography 🚀
 </h1>
 
 A simple landing page theme built with AstroJS and TailwindCSS, specifically designed for Notion creators. It's easy to customize, allowing you to create a minimalistic site that fits your style using its versatile components.
